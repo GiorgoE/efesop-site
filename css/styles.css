@@ -327,7 +327,8 @@ li h4 {
 }
 
 a {
-  text-decoration: none;
+  text-decoration: underline;
+  color: var(--light-light);
 }
 
 a img {
